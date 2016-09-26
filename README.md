@@ -1,2 +1,4 @@
 # hello-world
-just initial exercise
+
+Hi,humans!
+SnowHua here,i like node,js,jquery
